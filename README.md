@@ -1,6 +1,6 @@
 # fs102S2017-Presentation1-taylor-redman
 
-![Sample of the FS102 Presentation](/images/Pres2screenshot.png)
+![Sample of the FS102 Presentation](Pres2screenshot.png)
 
 This repository contains the HTML source code and additional resources for our second presentation in our FS 102 class, Software Everywhere.
 
